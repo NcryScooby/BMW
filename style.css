@@ -29,7 +29,7 @@ header {
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  padding: 15px 10%;
+  padding: 10px 10%;
   background-color: #181818;
 }
 
@@ -86,7 +86,7 @@ header {
   text-align: center;
   color: #000000;
   font-size: 1.5em;
-  font-weight: normal;
+  font-weight: 250;
   padding-right: 395px;
   padding-left: 395px;
 }
@@ -106,3 +106,7 @@ header {
   background-color: #4d4d4d;
 }
 
+.carros .val{
+    color: #006bc2;
+    font-weight: 500;
+}
