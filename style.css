@@ -4,6 +4,8 @@
   margin: 0;
   border: 0;
   padding: 0;
+  vertical-align: baseline;
+  list-style: none;
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
@@ -87,8 +89,8 @@ header {
   color: #000000;
   font-size: 1.5em;
   font-weight: 250;
-  padding-right: 395px;
-  padding-left: 395px;
+  padding-right: 190px;
+  padding-left: 190px;
 }
 
 .buy {
