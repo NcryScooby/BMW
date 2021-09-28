@@ -81,7 +81,7 @@ header {
   font-size: 2em;
 }
 
-.carros {
+.line1 {
   padding-top: 30px;
   display: flex;
   justify-content: space-around;
@@ -109,7 +109,25 @@ header {
   background-color: #4d4d4d;
 }
 
-.carros .val{
-    color: #006bc2;
-    font-weight: 500;
+.line1 .val {
+  color: #006bc2;
+  font-weight: 500;
+}
+
+.line2 {
+  padding-top: 30px;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  color: #000000;
+  font-size: 1.5em;
+  font-weight: 250;
+  padding-right: 190px;
+  padding-left: 190px;
+  padding-bottom: 30px;
+}
+
+.line2 .val {
+  color: #006bc2;
+  font-weight: 500;
 }
